@@ -1,0 +1,27 @@
+{
+    "name": "com.aog.dummypackage",
+    "version": "0.1.2",
+
+    "displayName": "Dummy package",
+    "description": "This is an my dummy package",
+
+    "author": {
+      "name": "Art Of Game",
+      "email": "aog@example.com",
+      "url": "https://www.unity3d.com"
+    },
+
+    "samples": [
+        {
+            "displayName": "Dummy example",
+            "description": "Contains sample of dummy scene",
+            "path": "Samples/DummyExample"
+        },
+        {
+            "displayName": "Dummy URP example",
+            "description": "Contains URP materials",
+            "path": "Samples/DummyURP"
+        }
+    ]
+
+  }
